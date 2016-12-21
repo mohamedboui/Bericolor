@@ -1,0 +1,4 @@
+prérequis :
+node js installé sur la machine 
+lancer npm install --save fs pour installer le module fs
+ouvrir un invite de commande dans l'emplacement nodeJS/test puis taper node test.js 

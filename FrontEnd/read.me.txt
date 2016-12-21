@@ -1,0 +1,3 @@
+il faut  tous d'abord télécharger les fichier js et css et les images et les fonts dans le serveur dont le nom de domaine est http://www.vizircenter.ma/
+pour se faire on tape le nom de domaine suivi du chemin du ficher par exemple http://www.vizircenter.ma/js/datepicker.js  pour téléchercher le fichier datepicker et on fait ça pour tout les fichier images et css et js,..
+aprés on aura tout le projet en local ,et j' ai travaillé sur le design des quatre boutons pour que le page soit uniforme 
